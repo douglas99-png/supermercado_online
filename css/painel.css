@@ -1,0 +1,30 @@
+/* Página do painel administrativo */
+.painel {
+    max-width: 1000px;
+    margin: 50px auto;
+    background-color: white;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.painel h2 {
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.painel table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.painel th, .painel td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+}
+
+.painel th {
+    background-color: #4CAF50;
+    color: white;
+}
