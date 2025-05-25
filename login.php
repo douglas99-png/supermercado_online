@@ -4,7 +4,6 @@
 <head>
     <meta charset="UTF-8">
     <title>Login</title>
-    <link rel="stylesheet" href="css/global.css">
     <link rel="stylesheet" href="css/login.css">
 </head>
 <body>
@@ -27,23 +26,25 @@
     </nav>
 </header>
 
-<div class="container">
-    <h1>Login</h1>
+<div class="login-container">
+    <h2>Login</h2>
 
     <form action="processa_login.php" method="POST">
-        <label>Você é:</label><br>
-        <input type="radio" name="tipo" value="fisica" onclick="mostrarCampos()" required> Pessoa Física 🧍‍♂️<br>
-        <input type="radio" name="tipo" value="empresa" onclick="mostrarCampos()" required> Estabelecimento 🏢<br><br>
+        <div class="radio-group">
+            <label>Você é:</label><br>
+            <input type="radio" name="tipo" value="fisica" onclick="mostrarCampos()" required> Pessoa Física 🧍‍♂️
+            <input type="radio" name="tipo" value="empresa" onclick="mostrarCampos()" required> Estabelecimento 🏢
+        </div>
 
         <div id="campoEmail" style="display:none;">
-            <input type="email" name="email" placeholder="Email"><br>
+            <input type="email" name="email" placeholder="Email">
         </div>
 
         <div id="campoCNPJ" style="display:none;">
-            <input type="text" name="cnpj" placeholder="CNPJ"><br>
+            <input type="text" name="cnpj" placeholder="CNPJ">
         </div>
 
-        <input type="password" name="senha" placeholder="Senha" required><br>
+        <input type="password" name="senha" placeholder="Senha" required>
 
         <button type="submit">Entrar</button>
     </form>
