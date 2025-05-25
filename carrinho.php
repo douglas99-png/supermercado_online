@@ -15,7 +15,7 @@
         <a href="index.php">Início</a>
         <a href="produtos.php">Produtos</a>
         <a href="ofertas.php">Ofertas</a>
-        <a href="carrinho.php">Carrinho</a>
+        <a href="carrinho.php">🛒 Carrinho</a>
         <a href="contato.php">Contato</a>
         <?php if(isset($_SESSION['id'])): ?>
             <a href="painel.php">Painel</a>
