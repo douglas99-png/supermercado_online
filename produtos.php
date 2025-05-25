@@ -31,7 +31,7 @@
     <h2>Produtos</h2>
 
     <div class="product">
-        <img src="imagens/arroz.jpg" alt="Arroz">
+        <img src="https://http2.mlstatic.com/D_NQ_NP_710774-MLU74219033443_012024-O.webp" alt="Arroz">
         <h3>Arroz</h3>
         <p>Pacote 5kg</p>
         <p>R$ 25,00</p>
@@ -39,7 +39,7 @@
     </div>
 
     <div class="product">
-        <img src="imagens/feijao.jpg" alt="Feijão">
+        <img src="https://mercantilnovaera.vtexassets.com/arquivos/ids/215343-800-450?v=638469753269400000&width=800&height=450&aspect=true" alt="Feijão">
         <h3>Feijão</h3>
         <p>Pacote 1kg</p>
         <p>R$ 8,00</p>
@@ -47,7 +47,7 @@
     </div>
 
     <div class="product">
-        <img src="imagens/oleo.jpg" alt="Óleo de Soja">
+        <img src="https://tocantins.agilecdn.com.br/20426_1.jpg" alt="Óleo de Soja">
         <h3>Óleo de Soja</h3>
         <p>Garrafa 900ml</p>
         <p>R$ 6,50</p>
@@ -55,7 +55,7 @@
     </div>
 
     <div class="product">
-        <img src="imagens/acucar.jpg" alt="Açúcar">
+        <img src="https://propao.agilecdn.com.br/1744_1.jpg" alt="Açúcar">
         <h3>Açúcar</h3>
         <p>Pacote 5kg</p>
         <p>R$ 18,59</p>
@@ -63,7 +63,7 @@
     </div>
 
     <div class="product">
-        <img src="imagens/leite.jpg" alt="Leite">
+        <img src="https://ibassets.com.br/ib.item.image.large/l-c54acdc6d1da4f50a37252efe847bbd7.jpeg" alt="Leite">
         <h3>Leite</h3>
         <p>Caixa 1L</p>
         <p>R$ 5,99</p>
@@ -71,7 +71,7 @@
     </div>
 
     <div class="product">
-        <img src="imagens/sabonete.jpg" alt="Sabonete">
+        <img src="https://img.nivea.com/-/media/miscellaneous/media-center-items/d/c/b/117afc5a2a6548abbf0a5a17b0836aa5-screen.jpg" alt="Sabonete">
         <h3>Sabonete</h3>
         <p>Unidade</p>
         <p>R$ 1,98</p>
@@ -79,7 +79,7 @@
     </div>
 
     <div class="product">
-        <img src="imagens/detergente.jpg" alt="Detergente">
+        <img src="https://images.tcdn.com.br/img/img_prod/1028719/detergente_ype_500ml_637_1_3ad87948aa8eabe38f077fbdcaf191d9.png" alt="Detergente">
         <h3>Detergente</h3>
         <p>500ml</p>
         <p>R$ 2,35</p>
@@ -87,7 +87,7 @@
     </div>
 
     <div class="product">
-        <img src="imagens/papel.jpg" alt="Papel Higiênico">
+        <img src="https://beagaembalagem.com.br/wp-content/uploads/2022/02/cotton-correto.jpg" alt="Papel Higiênico">
         <h3>Papel Higiênico</h3>
         <p>Fardo com 12 unidades</p>
         <p>R$ 21,49</p>
