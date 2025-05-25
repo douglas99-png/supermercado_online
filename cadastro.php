@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Cadastro</title>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/cadastro.css">
 </head>
 <body>
 
@@ -26,24 +26,26 @@
     </nav>
 </header>
 
-<div class="container">
-    <h1>Cadastro</h1>
+<div class="cadastro-container">
+    <h2>Cadastro</h2>
 
     <form action="processa_cadastro.php" method="POST">
-        <label>Você é:</label><br>
-        <input type="radio" name="tipo" value="fisica" onclick="mostrarCampos()" required> Pessoa Física 🧍‍♂️<br>
-        <input type="radio" name="tipo" value="empresa" onclick="mostrarCampos()" required> Estabelecimento 🏢<br><br>
+        <div class="radio-group">
+            <label>Você é:</label><br>
+            <input type="radio" name="tipo" value="fisica" onclick="mostrarCampos()" required> Pessoa Física 🧍‍♂️
+            <input type="radio" name="tipo" value="empresa" onclick="mostrarCampos()" required> Estabelecimento 🏢
+        </div>
 
         <div id="campoEmail" style="display:none;">
-            <input type="email" name="email" placeholder="Email"><br>
+            <input type="email" name="email" placeholder="Email">
         </div>
 
         <div id="campoCNPJ" style="display:none;">
-            <input type="text" name="cnpj" placeholder="CNPJ"><br>
+            <input type="text" name="cnpj" placeholder="CNPJ">
         </div>
 
-        <input type="text" name="nome" placeholder="Nome Completo ou Razão Social" required><br>
-        <input type="password" name="senha" placeholder="Senha" required><br>
+        <input type="text" name="nome" placeholder="Nome Completo ou Razão Social" required>
+        <input type="password" name="senha" placeholder="Senha" required>
 
         <button type="submit">Cadastrar</button>
     </form>
