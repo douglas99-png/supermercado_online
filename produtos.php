@@ -31,6 +31,7 @@
     <h2>Produtos</h2>
 
     <div class="product">
+        <img src="imagens/arroz.jpg" alt="Arroz">
         <h3>Arroz</h3>
         <p>Pacote 5kg</p>
         <p>R$ 25,00</p>
@@ -38,6 +39,7 @@
     </div>
 
     <div class="product">
+        <img src="imagens/feijao.jpg" alt="Feijão">
         <h3>Feijão</h3>
         <p>Pacote 1kg</p>
         <p>R$ 8,00</p>
@@ -45,6 +47,7 @@
     </div>
 
     <div class="product">
+        <img src="imagens/oleo.jpg" alt="Óleo de Soja">
         <h3>Óleo de Soja</h3>
         <p>Garrafa 900ml</p>
         <p>R$ 6,50</p>
@@ -52,6 +55,7 @@
     </div>
 
     <div class="product">
+        <img src="imagens/acucar.jpg" alt="Açúcar">
         <h3>Açúcar</h3>
         <p>Pacote 5kg</p>
         <p>R$ 18,59</p>
@@ -59,6 +63,7 @@
     </div>
 
     <div class="product">
+        <img src="imagens/leite.jpg" alt="Leite">
         <h3>Leite</h3>
         <p>Caixa 1L</p>
         <p>R$ 5,99</p>
@@ -66,6 +71,7 @@
     </div>
 
     <div class="product">
+        <img src="imagens/sabonete.jpg" alt="Sabonete">
         <h3>Sabonete</h3>
         <p>Unidade</p>
         <p>R$ 1,98</p>
@@ -73,6 +79,7 @@
     </div>
 
     <div class="product">
+        <img src="imagens/detergente.jpg" alt="Detergente">
         <h3>Detergente</h3>
         <p>500ml</p>
         <p>R$ 2,35</p>
@@ -80,11 +87,13 @@
     </div>
 
     <div class="product">
+        <img src="imagens/papel.jpg" alt="Papel Higiênico">
         <h3>Papel Higiênico</h3>
         <p>Fardo com 12 unidades</p>
         <p>R$ 21,49</p>
         <button onclick="alerta()">Adicionar ao Carrinho</button>
     </div>
+
 </div>
 
 <footer>
