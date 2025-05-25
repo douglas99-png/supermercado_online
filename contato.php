@@ -9,12 +9,12 @@
 <body>
 
 <header>
-    <h1>Contato</h1>
+    <h1>Supermercado Online</h1>
     <nav>
         <a href="index.php">Início</a>
         <a href="produtos.php">Produtos</a>
         <a href="ofertas.php">Ofertas</a>
-        <a href="carrinho.php">Carrinho</a>
+        <a href="carrinho.php">🛒 Carrinho</a>
         <a href="contato.php">Contato</a>
         <?php if(isset($_SESSION['id'])): ?>
             <a href="painel.php">Painel</a>
@@ -37,8 +37,6 @@
     </form>
 </div>
 
-<footer>
-    © 2025 Supermercado Online
-</footer>
+<footer>© 2025 Supermercado Online</footer>
 </body>
 </html>
