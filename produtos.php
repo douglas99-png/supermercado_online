@@ -94,6 +94,88 @@
         <button onclick="alerta()">Adicionar ao Carrinho</button>
     </div>
 
+    <!-- 🔥 Produtos novos adicionados 🔥 -->
+
+    <div class="product">
+        <img src="https://m.media-amazon.com/images/I/61fJ9Pe6UBL.jpg" alt="Café">
+        <h3>Café</h3>
+        <p>Pacote 500g</p>
+        <p>R$ 16,90</p>
+        <button onclick="alerta()">Adicionar ao Carrinho</button>
+    </div>
+
+    <div class="product">
+        <img src="https://superprix.vteximg.com.br/arquivos/ids/203303-1000-1000/152124.jpg?v=636294334593200000" alt="Manteiga">
+        <h3>Manteiga</h3>
+        <p>Pote 500g</p>
+        <p>R$ 9,99</p>
+        <button onclick="alerta()">Adicionar ao Carrinho</button>
+    </div>
+
+    <div class="product">
+        <img src="https://delivery.shopfacil.com.br/Media/Cache/Images/3/0/177678_1.jpg" alt="Queijo Mussarela">
+        <h3>Queijo Mussarela</h3>
+        <p>Kg</p>
+        <p>R$ 29,90</p>
+        <button onclick="alerta()">Adicionar ao Carrinho</button>
+    </div>
+
+    <div class="product">
+        <img src="https://cdn-cosmos.bluesoft.com.br/products/7898904745009" alt="Presunto">
+        <h3>Presunto</h3>
+        <p>Kg</p>
+        <p>R$ 27,90</p>
+        <button onclick="alerta()">Adicionar ao Carrinho</button>
+    </div>
+
+    <div class="product">
+        <img src="https://www.cervejastore.com.br/media/catalog/product/cache/207e23213cf636ccdef205098cf3c8a3/r/e/refrigerante-coca-cola-lata-350ml_1.jpg" alt="Refrigerante">
+        <h3>Refrigerante</h3>
+        <p>2 Litros</p>
+        <p>R$ 7,99</p>
+        <button onclick="alerta()">Adicionar ao Carrinho</button>
+    </div>
+
+    <div class="product">
+        <img src="https://d2r9epyceweg5n.cloudfront.net/stores/001/178/743/products/cerveja1-06f5be666f87985c9b15979404534247-1024-1024.jpg" alt="Cerveja">
+        <h3>Cerveja</h3>
+        <p>350ml</p>
+        <p>R$ 3,99</p>
+        <button onclick="alerta()">Adicionar ao Carrinho</button>
+    </div>
+
+    <div class="product">
+        <img src="https://cdn.awsli.com.br/600x450/2452/2452817/produto/246172587/5aa91b4288.jpg" alt="Água Mineral">
+        <h3>Água Mineral</h3>
+        <p>1,5 Litro</p>
+        <p>R$ 2,50</p>
+        <button onclick="alerta()">Adicionar ao Carrinho</button>
+    </div>
+
+    <div class="product">
+        <img src="https://d3ugyf2ht6aenh.cloudfront.net/stores/001/081/158/products/farinha1-06e14f8c4d7a8df8d016301bde739de9-640-0.jpg" alt="Farinha de Trigo">
+        <h3>Farinha de Trigo</h3>
+        <p>Pacote 1kg</p>
+        <p>R$ 5,99</p>
+        <button onclick="alerta()">Adicionar ao Carrinho</button>
+    </div>
+
+    <div class="product">
+        <img src="https://http2.mlstatic.com/D_NQ_NP_670604-MLB70008185964_062023-O.webp" alt="Sal">
+        <h3>Sal</h3>
+        <p>Pacote 1kg</p>
+        <p>R$ 2,99</p>
+        <button onclick="alerta()">Adicionar ao Carrinho</button>
+    </div>
+
+    <div class="product">
+        <img src="https://a-static.mlcdn.com.br/800x560/achocolatado-nescau-2-0-caixa-400g/magazineluiza/229196500/43350fc2dfbd3fd91eecddc62cbeb38d.jpg" alt="Achocolatado">
+        <h3>Achocolatado</h3>
+        <p>Lata 400g</p>
+        <p>R$ 8,99</p>
+        <button onclick="alerta()">Adicionar ao Carrinho</button>
+    </div>
+
 </div>
 
 <footer>
