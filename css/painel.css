@@ -1,0 +1,51 @@
+.painel {
+  max-width: 900px;
+  margin: 50px auto;
+  background-color: white;
+  padding: 40px;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+  text-align: center;
+}
+
+.painel h2 {
+  font-size: 28px;
+  color: #28a745;
+  margin-bottom: 20px;
+}
+
+.painel p {
+  font-size: 18px;
+  margin-bottom: 30px;
+  color: #444;
+}
+
+.painel-menu {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin-top: 30px;
+}
+
+.painel .botao {
+  background-color: #28a745;
+  color: white;
+  padding: 12px 24px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background 0.3s ease;
+}
+
+.painel .botao:hover {
+  background-color: #218838;
+}
+
+.painel .botao.sair {
+  background-color: #dc3545;
+}
+
+.painel .botao.sair:hover {
+  background-color: #b52a36;
+}

@@ -1,0 +1,14 @@
+/* Página de contato */
+.contato-container {
+    max-width: 600px;
+    margin: 50px auto;
+    background-color: white;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.contato-container h2 {
+    margin-bottom: 20px;
+    text-align: center;
+}
